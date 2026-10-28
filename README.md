@@ -8,10 +8,10 @@
 
 ## Projects
 
-**[Mad-Slime](https://github.com/otecGlinomes83/Mad-Slime)**<br />
+**[Mad-Slime](https://github.com/mshgn4zzz/Mad-Slime)**<br />
 A hypercasual game for Yandex Games.
 
-**[MazeHell](https://github.com/otecGlinomes83/MazeHell)**<br />
+**[MazeHell](https://github.com/mshgn4zzz/MazeHell)**<br />
 A fast-paced, Doom-inspired 2.5D shooter with procedurally generated levels, developed for my academic internship.
 
 ## About me
